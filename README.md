@@ -1,53 +1,48 @@
-# FUTURE_DS_01_Sales_Analytics
-Business Sales Performance Analysis using Excel – Future Interns Internship
+# 📊 Business Sales Analytics Dashboard (Excel)
 
-📊 Exploratory Data Analysis (EDA)
-🏢 Internship
+This project is my **first Excel-based data analytics dashboard**, created as part of my internship task with **Future Interns**.
 
-Future Interns – Data Science & Analytics Internship
+The goal of this project is to analyze business sales data and present meaningful insights using **Excel data analysis techniques**.
 
-🛠 Tools & Technologies Used
+---
 
-Microsoft Excel
+## 🧩 Project Overview
 
-Pivot Tables
+In this project, I worked on a real-world sales dataset to:
 
-Charts & Visualization
+- Clean and prepare raw data
+- Perform analysis using Pivot Tables
+- Create interactive charts and KPI metrics
+- Build a professional Excel dashboard
+- Derive business insights and recommendations
 
-Basic Data Cleaning Techniques
+## 📊 Dashboard Preview
+![Dashboard Screenshot](Screenshots/dashboard.png)
 
-🎯 Objective
+## 🛠 Tools Used
+- Microsoft Excel
+- Power Query
+- Pivot Tables
+- KPI Cards
+- Data Visualization
 
-The objective of this project is to perform Exploratory Data Analysis (EDA) to understand the structure, patterns, and trends present in the dataset. EDA helps in identifying important insights before applying any advanced analysis or modeling.
+## 🔍 Analysis Performed
+- Sales trend analysis over time
+- Top products by sales
+- Category-wise sales and profit analysis
+- Region-wise profit contribution
+- KPI analysis (Total Sales, Profit, Orders)
 
-🔎 Analysis Performed
+## 💡 Insights & Recommendations
+Detailed business insights and recommendations are included inside the Excel dashboard
+under the **“Insights & Recommendations”** sheet.
 
-Data cleaning and handling missing values
+## 📁 Dataset
+- Superstore Sales Dataset (Kaggle)
 
-Summary statistics analysis
+## 👤 Author
+**Omkar Shelke**  
+Aspiring Data Analyst  
+Internship Task – Future Interns
 
-Category-wise and numerical data exploration
 
-Visual analysis using charts
-
-💡 Key Insights
-
-Identified data distribution and trends
-
-Detected outliers and inconsistencies
-
-Observed relationships between important variables
-
-📁 Project Status
-
-🚧 Work in progress
-(Insights and visuals will be updated)
-
-👤 Author
-
-Omkar Shelke
-Aspiring Data Analyst
-
-🔗 Note
-
-This project is developed as part of the Future Interns Internship Program to build strong fundamentals in data analysis and interpretation.
